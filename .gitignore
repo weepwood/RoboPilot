@@ -1,0 +1,12 @@
+build/
+install/
+log/
+.dashboard-cache/
+node_modules/
+dist/
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+.DS_Store
+.env
